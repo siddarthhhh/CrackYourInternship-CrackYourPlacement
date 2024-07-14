@@ -11,12 +11,10 @@ The 45 Day DSA Challenge is a competitive coding challenge aimed at enhancing pr
 Repository Purpose
 This repository serves as a record of my journey through the challenge. Here, you will find all the solutions to the problems I have solved during the competition. Each solution is meticulously crafted to ensure clarity and efficiency.
 
-Progress
-As of now, I have solved 23 DSA problems and achieved Rank 1 in the challenge. I will continue to update this repository with new solutions as I progress through the 45 days.
 
 Connect with Me
-LeetCode ID: manikerisaurabh
-GeeksforGeeks ID: manikeri8vjn
+LeetCode ID: chidurulasiddarth
+
 Feel free to follow my journey and review my solutions. If you have any questions or suggestions, please do not hesitate to reach out.
 
 Conclusion
