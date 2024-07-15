@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+
+        int cnt = 0;
+        int el = 0;
+        for (auto it : nums) {
+
+            if (cnt == 0) {
+                el = it;
+                cnt = 1;
+            }
+            if (it == el)
+                cnt++;
+            else {
+                cnt--;
+            }
+        }
+
+        return el;
+    }
+};
